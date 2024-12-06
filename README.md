@@ -22,7 +22,7 @@ A 2D PCA scatter plot visualizing customer segments.
 
 ### 3. 3D Customer Segments
 A 3D plot of the customer segments based on Recency, Frequency, and Monetary metrics.
-![Customer Segment 3D](images/customer_segment_3d.png)
+![Customer Segment 3D](images/Customer_Segments_(3D).png)
 
 ### 4. Correlation Heatmap for RFM Metrics
 Correlation heatmap showing how Recency, Frequency, and Monetary metrics relate to each other.
