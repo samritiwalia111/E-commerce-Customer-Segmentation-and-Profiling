@@ -83,5 +83,3 @@ This project provided valuable insights into customer segmentation, helping busi
 - **Model Evaluation**: Evaluated the clustering model using **Silhouette Score** and **Davies-Bouldin Index**, ensuring the quality of the customer segments.
 
 ---
-
-This **README** highlights both the technical steps and your personal contributions, making it clear to recruiters or employers what you accomplished and how you can apply these skills in future projects. Feel free to adjust any specific details to fit your preferences or add more insights into your contributions.
