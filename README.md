@@ -42,7 +42,7 @@ Histograms showing the distribution of Frequency, Recency, and Monetary across c
 
 ### 8. Pairplot of Recency, Frequency, and Monetary
 A pairplot of Recency, Frequency, and Monetary for visualizing relationships between the three metrics.
-![Pairplot](images/pairplot_recency_frequency_monetary.png)
+![Pairplot](images/Pairplot of Recency, Frequency, and Monetary by Segment.png)
 
 ## Requirements
 
