@@ -30,7 +30,7 @@ Correlation heatmap showing how Recency, Frequency, and Monetary metrics relate 
 
 ### 5. Recency Distribution Boxplot
 Boxplot showing the distribution of Recency across customer segments.
-![Recency Boxplot](images/recency_boxplot.png)
+![Recency Boxplot](images/Recency_Distribution_by_Customer_Segment.png)
 
 ### 6. Frequency, Monetary, and Recency Distribution Boxplots
 Boxplots showing the distribution of Frequency, Monetary, and Recency across customer segments.
