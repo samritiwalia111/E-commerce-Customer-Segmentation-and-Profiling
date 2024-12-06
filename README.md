@@ -15,7 +15,7 @@ We applied **KMeans clustering** to segment customers and then used **Principal 
 
 ### 1. Elbow Method for Optimal Clusters
 The Elbow Method plot helps determine the optimal number of clusters for customer segmentation.
-![Elbow Method](images/Elbow Method for Optimal K.png)
+![Elbow Method](images/Elbow_Method_for_Optimal_K.png)
 ### 2. 2D PCA Scatter Plot
 A 2D PCA scatter plot visualizing customer segments.
 ![PCA 2D Scatter](images/pca_2d_scatter.png)
