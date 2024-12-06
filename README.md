@@ -26,7 +26,7 @@ A 3D plot of the customer segments based on Recency, Frequency, and Monetary met
 
 ### 4. Correlation Heatmap for RFM Metrics
 Correlation heatmap showing how Recency, Frequency, and Monetary metrics relate to each other.
-![Correlation Heatmap](images/correlation_heatmap.png)
+![Correlation Heatmap](images/Correlation_Heatmap_of_FM_Metrics.png)
 
 ### 5. Recency Distribution Boxplot
 Boxplot showing the distribution of Recency across customer segments.
