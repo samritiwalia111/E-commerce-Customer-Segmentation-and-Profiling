@@ -18,7 +18,7 @@ The Elbow Method plot helps determine the optimal number of clusters for custome
 ![Elbow Method](images/Elbow_Method_for_Optimal_K.png)
 ### 2. 2D PCA Scatter Plot
 A 2D PCA scatter plot visualizing customer segments.
-![PCA 2D Scatter](images/pca_2d_scatter.png)
+![PCA 2D Scatter](images/Customer_Segments(2D PCA).png)
 
 ### 3. 3D Customer Segments
 A 3D plot of the customer segments based on Recency, Frequency, and Monetary metrics.
